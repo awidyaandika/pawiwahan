@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d130c12b-e471-419c-994b-bcad11b41ae8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/css/audio.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/audio.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/ajax.cloudflare.com/cdn-cgi/desktop.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/desktop.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/desktop.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/ajax.cloudflare.com/cdn-cgi/scripts/desktop.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/ajax.cloudflare.com/desktop.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/desktop.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/desktop.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/desktop.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/desktop.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/desktop.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/vendor/desktop.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/music/desktop.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/audio.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/audio.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/audio.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/audio.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608544437374</updated>
       <workItem from="1608544456966" duration="15696000" />
-      <workItem from="1608576075241" duration="1122000" />
+      <workItem from="1608576075241" duration="7921000" />
     </task>
     <servers />
   </component>
