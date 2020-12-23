@@ -1,7 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d130c12b-e471-419c-994b-bcad11b41ae8" name="Default Changelist" comment="" />
+    <list default="true" id="d130c12b-e471-419c-994b-bcad11b41ae8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/LineIcons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/audio.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/magnific-popup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/slick.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/LineIcons.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/LineIcons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/LineIcons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/LineIcons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/LineIcons.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/DSC04047.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/DSC04078.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/DSC04091.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/DVS03835.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/chris2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/couple-shape.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/header-shape-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/header-shape-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/kedua.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/kelima.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/logo-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/pertama.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/putri3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/section_shape.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/shape-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/shape-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/ajax-contact.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/audio.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery.countdown.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery.easing.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery.magnific-popup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/scrolling-nav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/slick.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/vendor/jquery-1.12.4.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/vendor/modernizr-3.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/wow.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/music/seribubidadari.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +98,8 @@
       <updated>1608544437374</updated>
       <workItem from="1608544456966" duration="15696000" />
       <workItem from="1608576075241" duration="7921000" />
-      <workItem from="1608715422532" duration="5432000" />
+      <workItem from="1608715422532" duration="5910000" />
+      <workItem from="1608721516117" duration="611000" />
     </task>
     <servers />
   </component>
