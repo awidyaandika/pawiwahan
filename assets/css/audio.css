@@ -4,17 +4,8 @@
     width: 300px;
     height: 160px;
     z-index: 120;
-    bottom: 30px;
-    right: 30px;
-}
-
-@media (max-width: 991px) {
-    .music-box {
-        width: 250px;
-        height: 120px;
-        right: auto;
-        left: 30px;
-    }
+    bottom: 80px;
+    right: 20px;
 }
 
 .music-box .music-holder {
@@ -37,12 +28,12 @@
 
 .music-box button {
     background: rgba(0, 0, 0, 0.1);
-    width: 40px;
-    height: 40px;
+    width: 50px;
+    height: 50px;
     line-height: 37px;
     font-size: 18px;
     font-size: 1rem;
-    color: #5e9a8e;
+    color: #d59a57;
     border: 1px solid #e6e6e6;
     outline: 0;
     padding: 0;
@@ -55,6 +46,15 @@
     -o-border-radius: 50%;
     -ms-border-radius: 50%;
     border-radius: 50%;
+}
+
+@media (max-width: 991px) {
+    .music-box {
+        width: 250px;
+        height: 120px;
+        right: auto;
+        left: 30px;
+    }
 }
 
 @media (max-width: 991px) {
